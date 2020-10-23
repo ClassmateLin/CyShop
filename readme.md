@@ -177,6 +177,10 @@ class UserController extends Controller
 后台功能是学习Laravel-admin插件的使用和设计电商数据库的产物。
 
 
+## 注意:
+
+**更多内容, 请关注个人博客:**`https://www.classmatelin.top`
+
 
 ## 展示
 
